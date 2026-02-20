@@ -77,7 +77,7 @@ function HeadlineContainer() {
   return (
     <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-name="Headline Container">
       <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Bold_Italic',sans-serif] font-bold italic leading-[1.24] min-h-px min-w-px relative text-[0px] text-[37.789px] text-center text-shadow-[0px_6.06px_5.757px_rgba(0,0,0,0.25)] text-white tracking-[-1.1337px] whitespace-pre-wrap">
-        <p className="font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold mb-0">{`How to Position Yourself as the AI Adoption Specialist That Enterprises Are Desperately Seeking `}</p>
+        <p className="font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold mb-0">{`How to Position Yourself as the AI Adoption Specialist That Enterprises Are Desperately\u00A0Seeking`}</p>
         <p className="font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal">(And Willing to Pay $15K-$50K Per Engagement)</p>
       </div>
     </div>
@@ -97,7 +97,7 @@ function TextContainer() {
     <div className="content-stretch flex flex-[1_0_0] flex-col gap-[34.516px] items-start min-h-px min-w-px relative" data-name="Text Container">
       <div className="font-['Plus_Jakarta_Sans:Medium',sans-serif] font-medium leading-[27.612px] min-w-full relative shrink-0 text-[0px] text-white w-[min-content] whitespace-pre-wrap">
         <p className="font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold mb-[8.28372859954834px] text-[22.09px]">{`Free 2-hour executive workshop reveals why 95% of AI implementations fail, `}</p>
-        <p className="text-[17.948px]">{`and how YOU can become the consultant who fixes what $500M in technology spending couldn't.`}</p>
+        <p className="text-[17.948px]">{`and how YOU can become the consultant who fixes what $500M in technology spending\u00A0couldn't.`}</p>
       </div>
       <ButtonContainer1 />
     </div>
@@ -695,11 +695,11 @@ function TextContainer12() {
     <div className="content-stretch flex flex-[1_0_0] flex-col gap-[15.877px] items-start min-h-px min-w-px relative text-white whitespace-pre-wrap" data-name="Text Container">
       <p className="font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold leading-[22.09px] relative shrink-0 text-[22.09px] tracking-[-0.2209px] w-full">{`But here's what's actually happening:`}</p>
       <div className="font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[22.78px] relative shrink-0 text-[16.567px] tracking-[-0.1657px] w-full">
-        <p className="mb-[8.28372859954834px]">{`People aren't afraid of AI. They're afraid of being made irrelevant.`}</p>
+        <p className="mb-[8.28372859954834px]">{`People aren't afraid of AI. They're afraid of being made\u00A0irrelevant.`}</p>
         <p className="mb-[8.28372859954834px]">{`They're afraid their judgment won't matter anymore. That their expertise will be devalued. That their role will shrink until there's nothing left worth doing.`}</p>
         <p className="mb-[8.28372859954834px]">And when companies roll out AI initiatives without addressing this fear directly?</p>
-        <p className="mb-[8.28372859954834px]">Adoption dies. Not through confrontation, through silent rejection.</p>
-        <p>Non-use. Workarounds. Passive sabotage. Cultural disengagement.</p>
+        <p className="mb-[8.28372859954834px]">Adoption dies. Not through confrontation, through <span style={{ whiteSpace: 'nowrap' }}>silent rejection.</span></p>
+        <p>Non-use. Workarounds. Passive sabotage. <span style={{ whiteSpace: 'nowrap' }}>Cultural disengagement.</span></p>
       </div>
     </div>
   );
@@ -1181,7 +1181,7 @@ function Text() {
   return (
     <div className="content-stretch flex gap-[17px] items-start relative shrink-0 w-full" data-name="Text">
       <Container28 />
-      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">
+      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">
         <p className="mb-0">{`You see enterprises investing heavily in AI but `}</p>
         <p>struggling with adoption</p>
       </div>
@@ -1213,7 +1213,7 @@ function Text1() {
   return (
     <div className="content-stretch flex gap-[17px] items-start relative shrink-0 w-full" data-name="Text">
       <Container29 />
-      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">
+      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">
         <p className="mb-0">{`You want to command premium fees for solving `}</p>
         <p>high-value problems</p>
       </div>
@@ -1245,7 +1245,7 @@ function Text2() {
   return (
     <div className="content-stretch flex gap-[17px] items-start relative shrink-0 w-full" data-name="Text">
       <Container30 />
-      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">
+      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">
         <p className="mb-0">{`You're looking for a specialty with explosive demand `}</p>
         <p>and limited competition</p>
       </div>
@@ -1277,17 +1277,17 @@ function Text3() {
   return (
     <div className="content-stretch flex gap-[17px] items-start relative shrink-0 w-full" data-name="Text">
       <Container31 />
-      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">{`You'd rather be indispensable than interchangeable`}</p>
+      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">{`You'd rather be indispensable than interchangeable`}</p>
     </div>
   );
 }
 
 function Container27() {
   return (
-    <div className="bg-[rgba(255,255,255,0.8)] flex-[1_0_0] min-h-px min-w-px relative rounded-[18.969px]" data-name="Container">
+    <div className="bg-[rgba(255,255,255,0.8)] flex-[1_0_0] min-h-[400px] min-w-px relative rounded-[18.969px]" data-name="Container">
       <div aria-hidden="true" className="absolute border-[#e5e7eb] border-[1.581px] border-solid inset-0 pointer-events-none rounded-[18.969px] shadow-[0px_7.904px_11.856px_0px_rgba(0,0,0,0.1),0px_3.162px_4.742px_0px_rgba(0,0,0,0.1)]" />
       <div className="content-stretch flex flex-col gap-[17.258px] items-start pb-[104px] pt-[33.196px] px-[33.196px] relative w-full">
-        <p className="font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold leading-[28.454px] relative shrink-0 text-[#0d1353] text-[23.711px] w-full whitespace-pre-wrap">{`You'll get the most value if:`}</p>
+        <p className="font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold leading-[34px] relative shrink-0 text-[#0d1353] text-[28px] w-full whitespace-pre-wrap">{`You'll get the most value if:`}</p>
         <Text />
         <Text1 />
         <Text2 />
@@ -1322,7 +1322,7 @@ function Text4() {
   return (
     <div className="content-stretch flex gap-[19px] items-start relative shrink-0 w-full" data-name="Text">
       <Container33 />
-      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">
+      <div className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">
         <p className="mb-0">{`You're looking for technical AI training `}</p>
         <p>(prompt engineering, model fine-tuning, etc.)</p>
       </div>
@@ -1355,7 +1355,7 @@ function Text5() {
   return (
     <div className="content-stretch flex gap-[19px] items-start relative shrink-0 w-full" data-name="Text">
       <Container34 />
-      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">You want to learn how to build AI agents or automation workflows</p>
+      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">You want to learn how to build AI agents or automation workflows</p>
     </div>
   );
 }
@@ -1385,7 +1385,7 @@ function Text6() {
   return (
     <div className="content-stretch flex gap-[19px] items-start relative shrink-0 w-full" data-name="Text">
       <Container35 />
-      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">{`You're expecting a certification at the end of this workshop (this is an introduction; certification comes after if you want it)`}</p>
+      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">{`You're expecting a certification at the end of this workshop (this is an introduction; certification comes after if you want it)`}</p>
     </div>
   );
 }
@@ -1415,17 +1415,17 @@ function Text7() {
   return (
     <div className="content-stretch flex gap-[19px] h-[64.771px] items-start relative shrink-0 w-full" data-name="Text">
       <Container36 />
-      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[23.119px] min-h-px min-w-px relative text-[#0d1353] text-[14.227px] tracking-[-0.3473px] whitespace-pre-wrap">{`You're just curious about AI but not interested in consulting or leadership`}</p>
+      <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[27px] min-h-px min-w-px relative text-[#0d1353] text-[17px] tracking-[-0.3473px] whitespace-pre-wrap">{`You're just curious about AI but not interested in consulting or leadership`}</p>
     </div>
   );
 }
 
 function Container32() {
   return (
-    <div className="bg-[rgba(255,255,255,0.8)] flex-[1_0_0] min-h-px min-w-px relative rounded-[18.969px]" data-name="Container">
+    <div className="bg-[rgba(255,255,255,0.8)] flex-[1_0_0] min-h-[400px] min-w-px relative rounded-[18.969px]" data-name="Container">
       <div aria-hidden="true" className="absolute border-[#e5e7eb] border-[1.581px] border-solid inset-0 pointer-events-none rounded-[18.969px] shadow-[0px_7.904px_11.856px_0px_rgba(0,0,0,0.1),0px_3.162px_4.742px_0px_rgba(0,0,0,0.1)]" />
-      <div className="content-stretch flex flex-col gap-[18.638px] items-start pb-[33.2px] pt-[33.196px] px-[33.196px] relative w-full">
-        <p className="flex-[1_0_0] font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold leading-[28.454px] min-h-px min-w-px relative text-[#0d1353] text-[23.711px] w-[389.47px] whitespace-pre-wrap">This is NOT for:</p>
+      <div className="content-stretch flex flex-col gap-[18.638px] items-start pb-[104px] pt-[33.196px] px-[33.196px] relative w-full">
+        <p className="font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold leading-[34px] relative shrink-0 text-[#0d1353] text-[28px] w-full whitespace-pre-wrap">This is NOT for:</p>
         <Text4 />
         <Text5 />
         <Text6 />
