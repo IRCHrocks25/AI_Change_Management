@@ -1,7 +1,7 @@
 
-  # Figma-to-Code Compiler Request
+  # AI Change Management
 
-  This is a code bundle for Figma-to-Code Compiler Request. The original project is available at https://www.figma.com/design/c4uRU3ulJBGsyxOJSceT3I/Figma-to-Code-Compiler-Request.
+  This is a code bundle for AI Change Management. The original project is available at https://www.figma.com/design/c4uRU3ulJBGsyxOJSceT3I/Figma-to-Code-Compiler-Request.
 
   ## Running the code
 
